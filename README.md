@@ -7,7 +7,7 @@ User Story: If I pass an invalid URL that doesn't follow the valid http://www.ex
 ### Example creation usage:
 
 ```
-https://jungle-list.glitch.me/new/http://foo.com:80
+https://jungle-list.glitch.me/new/http://foo.bar
 ```
 
 ### Example creation output:
